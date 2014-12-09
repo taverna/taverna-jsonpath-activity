@@ -78,5 +78,12 @@
 			<url>file:///tmp/test-plugins/</url>
 		</repository>
 	</repositories>
+	
+	<scm>
+                <connection>scm:git:https://github.com/taverna/taverna-jsonpath-activity.git</connection>
+                <developerConnection>scm:git:ssh://git@github.com:taverna/taverna-jsonpath-activity.git</developerConnection>
+                <url>https://github.com/taverna/taverna-jsonpath-activity</url>
+                <tag>HEAD</tag>
+        </scm>
   
 </project>
