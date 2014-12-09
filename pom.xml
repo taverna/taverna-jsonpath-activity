@@ -8,7 +8,7 @@
   <groupId>net.sf.taverna.t2.activities</groupId>
   <artifactId>jsonpath-activity</artifactId>
   <name>Taverna JsonPath Activity</name>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     
   <properties>
     <jsonpath.version>0.8.1</jsonpath.version>
